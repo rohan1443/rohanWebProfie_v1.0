@@ -60,16 +60,16 @@ var ProjectContainer = React.createClass({
 							    <CarouselItem>
 							    <div className="row">
 							    <div className="col-md-6 col-sm-6 col-xs-12">
-									<img className="img-responsive center-block" width={600} height={200} alt="900x500" src="assets/images/Screenshot from 2016-01-18 18:28:12.png"/>
+									<img className="img-responsive center-block" width={600} height={200} alt="900x500" src="assets/images/Screenshot from 2016-02-15 02:02:11.png"/>
 							    </div>
 							     <div className="col-md-6 col-sm-6 hidden-xs">
-									<img className="img-responsive center-block" width={600} height={200} alt="900x500" src="assets/images/Screenshot from 2016-01-18 18:29:04.png"/>
+									<img className="img-responsive center-block" width={600} height={200} alt="900x500" src="assets/images/butlerScreen1.png"/>
 							    </div>
 							   
 							    </div>	
 							      <div className="carousel-caption hidden-xs">
-							        <h3>Dashboard</h3>
-							        <p>#RealTimeData #RealTimeGraphs #ProductPerformanceAnalysis #ManualConfiguration</p>
+							        <h3>Operator Panel User Interface</h3>
+							        <p>#RealTimeDataDriven #TouchScreen #Interactive</p>
 							      </div>
 							    </CarouselItem>
 							  </Carousel>
